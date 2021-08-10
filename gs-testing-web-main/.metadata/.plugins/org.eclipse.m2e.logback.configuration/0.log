@@ -1,0 +1,7 @@
+2021-08-10 11:15:54,449 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-10 11:16:48,009 [Worker-7: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-08-10 11:16:48,501 [Worker-7: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-08-10 11:16:48,505 [Worker-7: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-08-10 11:16:48,579 [Worker-7: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-08-10 11:28:03,803 [Worker-15: Launching Executing clean in _home_user_Downloads_gs-testing-web-main_complete] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/user/Downloads/gs-testing-web-main/complete
+2021-08-10 11:28:03,803 [Worker-15: Launching Executing clean in _home_user_Downloads_gs-testing-web-main_complete] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
